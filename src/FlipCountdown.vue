@@ -52,9 +52,9 @@ export default {
             default: function () {
                 return {
                     days: 'Days',
-                    hours: 'Hours',
-                    minutes: 'Minutes',
-                    seconds: 'Seconds',
+                    hours: 'Hor',
+                    minutes: 'Min',
+                    seconds: 'Sec',
                 };
             },
         },
