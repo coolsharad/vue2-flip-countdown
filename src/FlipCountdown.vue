@@ -51,10 +51,10 @@ export default {
             required: false,
             default: function () {
                 return {
-                    days: 'D',
-                    hours: 'H',
-                    minutes: 'M',
-                    seconds: 'S',
+                    days: 'DAYS',
+                    hours: 'HOURS',
+                    minutes: 'MIN',
+                    seconds: 'SEC',
                 };
             },
         },
